@@ -1,0 +1,5 @@
+.superHeroCard img {
+  width: 225px;
+  height: 425px;
+  object-fit: cover;
+}
